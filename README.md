@@ -1,8 +1,8 @@
 ### Hi there 👋
-###### I am Akshaya. My main interest lies in Data Science, Machine learning, Python and Tableau.I am a quick learner and always thrive for perfection.
+
 <!--
 **Akshaya1805/Akshaya1805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+I am Akshaya. My main interest lies in Data Science, Machine learning, Python and Tableau.I am a quick learner and always thrive for perfection.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Data Science projects
