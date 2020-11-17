@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**Akshaya1805/Akshaya1805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 I am Akshaya. My main interest lies in Data Science, Machine learning, Python and Tableau.I am a quick learner and always thrive for perfection.
 Here are some ideas to get you started:
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: akshayavijay9@gmail.com
 - 😄 Pronouns: You can give one!!
 - ⚡ Fun fact: A superstition you have.
--->
+
